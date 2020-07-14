@@ -26,6 +26,8 @@ body {
   box-shadow: 10px 10px 10px var(--cs-shadow-blue),
     -10px -10px 10px var(--cs-shadow-blue),
     10px -10px 10px var(--cs-shadow-blue), -10px 10px 10px var(--cs-shadow-blue);
+  width: 60vw;
+  height: 60vh;
 }
 
 .cs-bg-lightgray {
