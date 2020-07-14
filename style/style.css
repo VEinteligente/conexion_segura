@@ -35,7 +35,7 @@ body {
 }
 
 .cs-bg-footer {
-  background: var(--cs-blue) url("../img/turquoise-bg-tile.png") repeat;
+  background-color: var(--cs-blue);
 }
 
 .cs-links {
@@ -46,5 +46,17 @@ body {
 
 .cs-links:hover {
   color: var(--cs-orange);
-  font-size: 10rem;
+  font-size: 8.5rem;
+}
+
+.cs-footer-sponsors {
+
+}
+
+#cs-tutorial-videos {
+  height: 100vh;
+}
+
+#cs-social-media {
+  height: 70vh;
 }
