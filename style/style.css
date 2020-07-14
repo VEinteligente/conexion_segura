@@ -4,7 +4,7 @@
   --cs-blue: #3b71d3;
   --cs-orange: #eb803a;
   --cs-shadow-blue: #3b71d310;
-  --cs-lightgray: rgb(250, 250, 250, 0.8);
+  --cs-lightgray: rgba(250, 250, 250, 0.8);
 }
 
 body {
