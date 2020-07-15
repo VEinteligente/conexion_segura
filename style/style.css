@@ -4,13 +4,17 @@
   --cs-blue: #3b71d3;
   --cs-orange: #eb803a;
   --cs-shadow-blue: #3b71d310;
-  --cs-lightgray: rgb(245, 245, 245);
+  --cs-lightgray: rgb(240, 240, 240);
 }
 
 body {
   /* font-family: "Open Sans", sans-serif; */
   font-size: 16px;
   overflow-x: hidden;
+}
+
+#cs-header {
+  background: lightgray url("../img/header-tile.png") center center repeat;
 }
 
 .cs-logo {
@@ -27,8 +31,8 @@ body {
   box-shadow: 10px 10px 10px var(--cs-shadow-blue),
     -10px -10px 10px var(--cs-shadow-blue),
     10px -10px 10px var(--cs-shadow-blue), -10px 10px 10px var(--cs-shadow-blue);
-  width: 60vw;
-  height: 60vh;
+  height: 80vh;
+  width: 80vw;
 }
 
 .cs-bg-lightgray {
@@ -40,23 +44,11 @@ body {
 }
 
 .cs-links {
-  font-size: 8rem;
+  font-size: 2rem;
   color: var(--cs-blue);
   transition: all ease 400ms;
 }
 
 .cs-links:hover {
   color: var(--cs-orange);
-}
-
-.cs-footer-sponsors {
-
-}
-
-#cs-tutorial-videos {
-  height: 100vh;
-}
-
-#cs-social-media {
-  height: 70vh;
 }

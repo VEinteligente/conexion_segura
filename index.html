@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Conexión Segura</title>
 
+    <!-- Bootstrap V4 CSS -->
+
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
@@ -12,27 +14,39 @@
       crossorigin="anonymous"
     />
 
+    <!-- Animate.css -->
+
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
     />
+
+    <!-- Google Fonts - Open Sans 400/700 -->
 
     <link
       href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,800&display=swap"
       rel="stylesheet"
     />
 
+    <!-- Estilos Personalizados -->
+
     <link rel="stylesheet" href="./style/style.css" />
+
+    <!-- Font Awesome -->
 
     <script
       src="https://kit.fontawesome.com/c90a8151cd.js"
       crossorigin="anonymous"
     ></script>
+
+    <!-- Botón Youtube -->
+
+    <script src="https://apis.google.com/js/platform.js"></script>
   </head>
-  <body class=" cs-bg-lightgray">
+  <body class="cs-bg-lightgray">
     <header
       id="cs-header"
-      class="text-center animate__animated animate__fadeInDown mt-4"
+      class="text-center animate__animated animate__fadeInDown py-5"
     >
       <h1>
         <img
@@ -43,32 +57,27 @@
       </h1>
     </header>
 
-    <main id="cs-wrapper" class="container-fluid my-5">
+    <main id="cs-wrapper" class="my-5">
       <article
         id="cs-tutorial-videos"
-        class="py-5 animate__animated animate__delay-2s animate__fadeInLeft"
+        class="container-fluid py-5 animate__animated animate__delay-2s animate__fadeInLeft"
       >
         <h2 class="text-center text-uppercase cs-h2 mb-5">TUTORIALES</h2>
 
-        <section class="text-center">
-          <iframe
-            class="cs-video-tutorial"
-            src="https://www.youtube-nocookie.com/embed/videoseries?list=PL86JVz13WgVj1P7ICT8UTKHNxRVuk4ndo"
-            frameborder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          ></iframe>
-        </section>
-      </article>
-
-      <article
-        id="cs-social-media"
-        class="mt-5 pt-5 animate__animated animate__delay-2s animate__fadeInRight"
-      >
-        <h2 class="text-center text-uppercase cs-h2 mb-5">SOCIAL LINKS</h2>
-
         <section class="row">
-          <div class="col-6 d-flex justify-content-end align-items-center pr-5">
+          <div class="col-12 d-flex justify-content-center align-items-center">
+            <iframe
+              class="cs-video-tutorial"
+              src="https://www.youtube-nocookie.com/embed/videoseries?list=PL86JVz13WgVj1P7ICT8UTKHNxRVuk4ndo"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </section>
+
+        <section class="row mt-5">
+          <div class="col-1 offset-1 d-flex justify-content-center align-items-center">
             <a
               href="https://twitter.com/conexionsegura"
               target="_blank"
@@ -78,9 +87,7 @@
               <span class="d-none">Twitter</span>
             </a>
           </div>
-          <div
-            class="col-6 d-flex justify-content-start align-items-center pl-5"
-          >
+          <div class="col-1 d-flex justify-content-center align-items-center">
             <a
               href="https://www.instagram.com/conexion_segura/"
               target="_blank"
@@ -90,6 +97,10 @@
               <span class="d-none">Instagram</span>
             </a>
           </div>
+
+          <div class="col-3">
+            <div class="g-ytsubscribe" data-channel="GoogleDevelopers"></div>
+          </div>
         </section>
       </article>
     </main>
@@ -98,11 +109,21 @@
       <h2 class="text-center text-uppercase cs-h2 mb-5">PRESENTADO POR</h2>
 
       <section class="row">
-        <div class="offset-md-3 col-3 d-flex justify-content-center align-items-center">
-          <img class="img-fluid cs-footer-sponsors" src="./img/vsf-logo.png" alt="VENEZUELA SIN FILTRO - LOGO" />
+        <div
+          class="offset-md-3 col-3 d-flex justify-content-center align-items-center"
+        >
+          <img
+            class="img-fluid cs-footer-sponsors"
+            src="./img/vsf-logo.png"
+            alt="VENEZUELA SIN FILTRO - LOGO"
+          />
         </div>
         <div class="col-3 d-flex justify-content-center align-items-center">
-          <img class="img-fluid cs-footer-sponsors" src="./img/vi-logo.png" alt="VENEZUELA INTELIGENTE - LOGO" />
+          <img
+            class="img-fluid cs-footer-sponsors"
+            src="./img/vi-logo.png"
+            alt="VENEZUELA INTELIGENTE - LOGO"
+          />
         </div>
       </section>
     </footer>
@@ -122,5 +143,21 @@
       integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
       crossorigin="anonymous"
     ></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-34540294-6"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-34540294-6");
+    </script>
   </body>
 </html>
