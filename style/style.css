@@ -4,12 +4,13 @@
   --cs-blue: #3b71d3;
   --cs-orange: #eb803a;
   --cs-shadow-blue: #3b71d310;
-  --cs-lightgray: rgba(245, 245, 245, 0.65);
+  --cs-lightgray: rgb(245, 245, 245);
 }
 
 body {
   /* font-family: "Open Sans", sans-serif; */
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 .cs-logo {
@@ -46,7 +47,6 @@ body {
 
 .cs-links:hover {
   color: var(--cs-orange);
-  font-size: 8.5rem;
 }
 
 .cs-footer-sponsors {
