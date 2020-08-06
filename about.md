@@ -6,7 +6,6 @@ layout: default
 permalink: /about
 ---
 
-
 <article class="my-5">
 
     <h2 class="cs-h2 text-center mb-5">Quienes somos</h2>
@@ -57,21 +56,20 @@ permalink: /about
                 </a>
             </div>
 
-            <div class="col-4 d-flex justify-content-center align-items-center">
-
-                <!-- Botón Youtube -->
-
-                <script src="https://apis.google.com/js/platform.js"></script>
-                
+            <div class="col-4 d-flex justify-content-center align-items-center position-relative">
                 <div
                     id="yt-channel"
-                    class="g-ytsubscribe"
+                    class="g-ytsubscribe position-absolute"
                     data-channelid="UCzN2SuKrqhsc2bKyGFg0Jpg"
-                    data-layout="full"
-                    data-count="default"
+                    data-layout="default"
+                    data-count="hidden"
                 ></div>
 
-                
+                <i 
+                    id="yt-button" 
+                    class="fab fa-youtube cs-links position-relative"
+                ></i>
+                <span class="d-none">Youtube</span>
             </div>
         </div>
     </section>
