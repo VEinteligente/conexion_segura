@@ -1,0 +1,14 @@
+.cs-h2-footer {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #0ca3e4;
+}
+
+.cs-bg-footer {
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 0) 20%
+    ),
+    lightgray url("./assets/img/lightgray-tile.png") center center repeat;
+}

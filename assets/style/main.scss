@@ -1,3 +1,6 @@
+---
+--- 
+
 @charset "utf-8";
 
 :root {
@@ -7,31 +10,33 @@
   --cs-lightgray: rgb(240, 240, 240);
 }
 
-body {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-  overflow-x: hidden;
+html {
+  height: 100%;
 }
 
-#cs-header {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 1) 99%),
-            lightgray url("../img/header-tile.png") center center repeat;
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  overflow-x: hidden;
+  min-height: 100%;
 }
+
+main {
+  min-height: 100%;
+}
+
+@import "footer";
+
+@import "header";
 
 .cs-logo {
   height: 120px;
 }
 
 .cs-h2 {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 800;
   color: var(--cs-orange);
-}
-
-.cs-h2-footer {
-  font-size: 2.5rem;
-  font-weight: 800;
-  color: #0CA3E4;
 }
 
 .cs-video-tutorial {
@@ -42,11 +47,6 @@ body {
   width: 80vw;
 }
 
-.cs-bg-footer {
-  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 20%), 
-              lightgray url("../img/lightgray-tile.png") center center repeat;
-}
-
 .cs-links {
   font-size: 2rem;
   color: var(--cs-blue);
@@ -55,4 +55,8 @@ body {
 
 .cs-links:hover {
   color: var(--cs-orange);
+}
+
+.cs-text-indent {
+  text-indent: 1rem;
 }
