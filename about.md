@@ -36,13 +36,42 @@ permalink: /about
     <section class="container text-justify">
         <div class="row">
             <div class="col-4 d-flex justify-content-center align-items-center">
+                <a
+                    href="https://twitter.com/conexionsegura"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <i class="fab fa-twitter cs-links"></i>
+                    <span class="d-none">Twitter</span>
+                </a>
+            </div>
 
-            </div>
             <div class="col-4 d-flex justify-content-center align-items-center">
-            
+                <a
+                    href="https://www.instagram.com/conexion_segura/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <i class="fab fa-instagram cs-links"></i>
+                    <span class="d-none">Instagram</span>
+                </a>
             </div>
+
             <div class="col-4 d-flex justify-content-center align-items-center">
-            
+
+                <!-- Botón Youtube -->
+
+                <script src="https://apis.google.com/js/platform.js"></script>
+                
+                <div
+                    id="yt-channel"
+                    class="g-ytsubscribe"
+                    data-channelid="UCzN2SuKrqhsc2bKyGFg0Jpg"
+                    data-layout="full"
+                    data-count="default"
+                ></div>
+
+                
             </div>
         </div>
     </section>
