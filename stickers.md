@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /stickers.html
+permalink: /signal
 ---
 
 <div class="row">
@@ -13,7 +13,7 @@ permalink: /stickers.html
                 <p class="card-text">
                 {{ item.description }}
                 </p>
-                <a href="{{ item.src }}" class="card-link">Download</a>
+                <a href="{{ item.src }}" class="card-link">Descarga</a>
             </div>
         </div>
     </div>

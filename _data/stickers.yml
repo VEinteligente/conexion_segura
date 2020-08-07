@@ -1,24 +1,19 @@
-- src: /relative/path/archive
-  src-img: https://picsum.photos/200/150
-  title: Titulo Sticker
-  description: Descripción Sticker
+- src: https://signal.art/addstickers/#pack_id=7c857e4c7a97c82912c2d2678440bec8&pack_key=71cd3a190dd1ef69eae1ec54ce05c0f859c3dfd07219370742e2b76fe2fb6c49
+  src-img: /assets/img/stickers/OV.png
+  title: Conexion Segura
+  description: "Oriana Vargas (@orianavargas.v), para Conexión Segura."
 
-- src: /relative/path/archive
-  src-img: https://picsum.photos/200/150
-  title: Titulo Sticker
-  description: Descripción Sticker
+- src: NULL
+  src-img: /assets/img/stickers/AyS.png
+  title: Conexion Segura, Azucar y Sal 
+  description: "Azucar y Sal, para Conexión Segura."
 
-- src: /relative/path/archive
-  src-img: https://picsum.photos/200/150
-  title: Titulo Sticker
-  description: Descripción Sticker
+- src: NULL
+  src-img: /assets/img/stickers/IV.png
+  title: Iconos
+  description: "¡Próximamente! Iconos Venezolanos, para Conexión Segura."
 
-- src: /relative/path/archive
-  src-img: https://picsum.photos/200/150
-  title: Titulo Sticker
-  description: Descripción Sticker
-
-- src: /relative/path/archive
-  src-img: https://picsum.photos/200/150
-  title: Titulo Sticker
-  description: Descripción Sticker
+- src: NULL
+  src-img: /assets/img/stickers/SA.png
+  title: Shari y Conexion Segura
+  description: "¡Próximamente! @ShariAvendano para Conexion Segura"

@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /index.html
+# permalink: /index.html
 ---
 
 <h2 class="cs-h2 text-center mb-5">Home</h2>

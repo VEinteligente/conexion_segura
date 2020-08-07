@@ -1,11 +1,11 @@
 - title: Home
-  url: ./index.html
+  url: /
 
-- title: Stickers
-  url: ./stickers.html
+- title: Stickers de Signal
+  url: /signal.html
 
 - title: Canal YouTube
-  url: ./youtube.html
+  url: https://youtube.com/conexionsegura
 
 - title: Contáctanos
-  url: ./about.html
+  url: /about.html

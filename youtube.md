@@ -1,4 +1,4 @@
 ---
 layout: yt-channel
-permalink: /youtube
+permalink: /
 ---
