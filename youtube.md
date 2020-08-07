@@ -1,0 +1,4 @@
+---
+layout: yt-channel
+permalink: /
+---
