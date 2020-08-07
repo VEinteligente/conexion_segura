@@ -3,17 +3,17 @@
   title: Conexion Segura
   description: "Oriana Vargas (@orianavargas.v), para Conexión Segura."
 
-- src: NULL
+- src: https://signal.art/addstickers/#pack_id=9778603c0c0c220da6dbc92a85007373&pack_key=f276d8883e8f780458529e37ab5e52a90cb0b922e267b1a972baba8bf0fc76a9
   src-img: /assets/img/stickers/AyS.png
-  title: Conexion Segura, Azucar y Sal 
+  title: Conexion Segura, Azucar y Sal
   description: "Azucar y Sal, para Conexión Segura."
 
-- src: NULL
+- src:
   src-img: /assets/img/stickers/IV.png
   title: Iconos
   description: "¡Próximamente! Iconos Venezolanos, para Conexión Segura."
 
-- src: NULL
+- src:
   src-img: /assets/img/stickers/SA.png
   title: Shari y Conexion Segura
   description: "¡Próximamente! @ShariAvendano para Conexion Segura"
