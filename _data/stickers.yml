@@ -9,11 +9,11 @@
   description: "Azucar y Sal, para Conexión Segura."
 
 - src:
+  src-img: /assets/img/stickers/SA.png
+  title: Seguras y conectadas
+  description: "@ShariAvendano, para Conexion Segura"
+
+- src: https://signal.art/addstickers/#pack_id=dcaea672ee5be0bc7662314edca5de1b&pack_key=9926dd3f0e9a7ab4cc18af97cc0dbf77d9142d3a778a155d3d2dc3b3032355d1
   src-img: /assets/img/stickers/IV.png
   title: Iconos
   description: "¡Próximamente! Iconos Venezolanos, para Conexión Segura."
-
-- src:
-  src-img: /assets/img/stickers/SA.png
-  title: Shari y Conexion Segura
-  description: "¡Próximamente! @ShariAvendano para Conexion Segura"
