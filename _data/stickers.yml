@@ -1,8 +1,8 @@
-- src: https://signal.art/addstickers/#pack_id=e785f1916214d9d59a3d609e98d14e76&pack_key=53d60ad4ece88c37c62b5bdfcc3c4ecc46516f5108ef978db84891c3bbf0df0d
-  src-img: /assets/img/stickers/meme.png
-  title: Memes y nuestra cultura pop de TV
-  description: "¿internet?\n¡Internet!"
 
+- src: https://signal.art/addstickers/#pack_id=28aac66d4f5ec3674a51901cfe165038&pack_key=2532234e5b7c2b80b54e7fb0f433a25de81f73137530d73e6e719241d101b2ae
+  src-img: /assets/img/stickers/IV.png
+  title: Iconos Seguros
+  description: "Iconos Venezolanos, para Conexión Segura"
 
 - src: https://signal.art/addstickers/#pack_id=7c857e4c7a97c82912c2d2678440bec8&pack_key=71cd3a190dd1ef69eae1ec54ce05c0f859c3dfd07219370742e2b76fe2fb6c49
   src-img: /assets/img/stickers/OV.png
@@ -20,7 +20,7 @@
   description: "@ShariAvendano, para Conexion Segura"
 
 
-- src:
-  src-img: /assets/img/stickers/IV.png
-  title: Iconos
-  description: "¡Este sábdo! Iconos Venezolanos, para Conexión Segura."
+- src: https://signal.art/addstickers/#pack_id=e785f1916214d9d59a3d609e98d14e76&pack_key=53d60ad4ece88c37c62b5bdfcc3c4ecc46516f5108ef978db84891c3bbf0df0d
+  src-img: /assets/img/stickers/meme.png
+  title: Memes y nuestra cultura pop de TV
+  description: "¿internet?\n¡Internet!"
