@@ -3,14 +3,30 @@ layout: default
 permalink: /signal
 ---
 
-# Stickers para Signal
+<main class="container">
+ <div class="row my-5">
+  <div class="col-auto">
+    <section class="mb-4">
+      <h2 class="cs-h2 text-center">Stickers para Signal</h2>
+    </section>
 
-Signal es nuestra principal recomendación para chats seguros, y para darte la bienvenida a Signal estamos creando estos geniales paquetes de stickers.
-¡Puedes [descargar signal](https://signal.org/en/download/) para Android, iPhone y tu computadora!
+    <section class="text-justify">
+      <p class="cs-text-indent">
+        Signal es nuestra principal recomendación para chats seguros, y para
+        darte la bienvenida a Signal estamos creando estos geniales paquetes de
+        stickers. ¡Puedes <a href="https://signal.org/en/download/">descargar signal</a>
+        para Android, iPhone y tu computadora!
+      </p>
 
-Recuerda que la seguridad de una app no es suficiente, tienes que poder confiar en las personas con quién tienes conversaciones sensibles.
+      <p class="cs-text-indent">
+        Recuerda que la seguridad de una app no es suficiente, tienes que poder
+        confiar en las personas con quién tienes conversaciones sensibles.
+      </p>
+    </section>
+  </div>
+ </div>
 
-<div class="row">
+ <div class="row my-5">
   {% for item in site.data.stickers %}
   <div class="col-lg-4 col-md-3 col-sm-6 mt-4">
     <div class="card h-100">
@@ -52,3 +68,4 @@ Recuerda que la seguridad de una app no es suficiente, tienes que poder confiar 
   </div>
   {% endfor %}
 </div>
+</main>
