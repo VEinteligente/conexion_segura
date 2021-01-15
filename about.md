@@ -38,7 +38,7 @@ permalink: /about
 
     <section class="container text-justify">
         <div class="row">
-            <div class="col-4 d-flex justify-content-center align-items-center">
+            <div class="col col-sm-2 col-md-4 col-lg-3 d-flex justify-content-center align-items-center">
                 <a
                     href="https://twitter.com/conexionsegura"
                     target="_blank"
@@ -49,7 +49,7 @@ permalink: /about
                 </a>
             </div>
 
-            <div class="col-4 d-flex justify-content-center align-items-center">
+            <div class="col col-sm-2 col-md-4 col-lg-3 d-flex justify-content-center align-items-center">
                 <a
                     href="https://www.instagram.com/conexion_segura/"
                     target="_blank"
@@ -60,7 +60,7 @@ permalink: /about
                 </a>
             </div>
 
-            <div class="col-4 d-flex justify-content-center align-items-center position-relative">
+            <div class="col col-sm-2 col-md-4 col-lg-3 d-flex justify-content-center align-items-center position-relative">
                 <div
                     id="yt-channel"
                     class="g-ytsubscribe position-absolute"
@@ -74,6 +74,17 @@ permalink: /about
                     class="fab fa-youtube cs-links position-relative"
                 ></i>
                 <span class="d-none">Youtube</span>
+            </div>
+
+            <div class="col col-sm-2 col-md-4 col-lg-3 d-flex justify-content-center align-items-center">
+                <a
+                    href="https://facebook.com/VeInteligente/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <i class="fab fa-facebook cs-links"></i>
+                    <span class="d-none">Facebook</span>
+                </a>
             </div>
         </div>
     </section>
