@@ -1,6 +1,6 @@
 <header
   id="cs-header"
-  class="text-center animate__animated animate__fadeInDown py-5"
+  class="text-center py-5"
 >
   <h1>
     <img
@@ -13,9 +13,9 @@
   <ul class="nav justify-content-around mt-4">
     {% for item in site.data.nav-links %}
       <li>
-        <a 
-          class="nav-link" 
-          href="{{ item.url }}"
+        <a
+          class = "nav-link"
+          href  = "{{ item.url }}"
           >
             {{ item.title }}
           </a>
