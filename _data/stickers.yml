@@ -1,3 +1,7 @@
+- src: https://signal.art/addstickers/#pack_id=b28c1753c8d1cefa9449f6082dff54f2&pack_key=1acea82eb76a65156098ba4a415d21e0a9e69f0a6d6730058c2e5dbb7afabea8
+  src-img: /assets/img/stickers/glitch.png
+  title: Ciber Stickers
+  description: "Sailorglitch, para Conexión Segura"
 
 - src: https://signal.art/addstickers/#pack_id=28aac66d4f5ec3674a51901cfe165038&pack_key=2532234e5b7c2b80b54e7fb0f433a25de81f73137530d73e6e719241d101b2ae
   src-img: /assets/img/stickers/IV.png
