@@ -5,18 +5,20 @@ permalink: /box
 
  <section class="my-5">
 
-    <h2 class="cs-h2 text-center mb-5">'Asymetric Box' to teach PGP</h2>
+    <h2 class="cs-h2 text-center mb-5">'Asymmetric Box' to teach PGP</h2>
  
- <iframe
-    width="640"
-    height="480"
-    src="https://www.youtube-nocookie.com/embed/htOywqRDtTQ"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
+    <section class="row">
+      <div class="col-12 d-flex justify-content-center align-items-center">
+        <iframe
+          class="cs-video-tutorial"
+          src="https://www.youtube-nocookie.com/embed/htOywqRDtTQ"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </section>
+ 
     <section class="container text-justify">
         <div class="row">
             <p class="cs-text-indent">
