@@ -10,7 +10,7 @@ permalink: /box
  <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/watch?v=MO3Zh8EoAoE"
+    src="https://www.youtube-nocookie.com/embed/htOywqRDtTQ"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
