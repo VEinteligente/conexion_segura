@@ -18,23 +18,29 @@ permalink: /box
         ></iframe>
       </div>
     </section>
+    
+    <p></p>
  
     <section class="container text-justify">
         <div class="row">
             <p class="cs-text-indent">
-                Conexión Segura es una iniciativa que busca promover el entendimiento y uso de prácticas y herramientas básicas de seguridad digital y evasión de censura en internet entre los ciudadanos, activistas y sociedad civil en general.
+                We believe that cybersecurity concepts should be easily accessible to everyone, no matter their age or level of expertise in the matter. If we want to <b>reduce the tech gap</b>, then we have to change the way we engage and share information about digital security. 
             </p>
 
             <p class="cs-text-indent">
-                Consta de una serie de videos tutoriales cortos y amigables, que utilizan un lenguaje sencillo, así como unos videos de preguntas y respuestas que buscan aclarar las dudas más comunes sobre seguridad digital. Todos los videos los puedes ver en el canal de <a href="http://youtube.com/conexionsegura">Youtube</a> y en nuestra cuenta de <a href="http://instagram.com/conexion_segura/">Instagram</a>. Además de los videos, en nuestras redes sociales (Instagram, Twitter y Facebook) estamos compartiendo diversos datos y tips importantes sobre el tema.
+                In this lighting talk for Mozfest 2022 we want to talk about our experiences trying to present these concepts in different ways, with a focus on our "asymmetric box", a 3D-printed box with a mechanical system that helps teach and understand the concepts behind <i>PGP encrypted email</i> and other public key cryptography tools.
+            </p>
+         
+            <p class="cs-text-indent">
+                If you are interested in building an 'asymmetric box' yourself, you can find all the necessary files for 3D printing in our public <a href="https://github.com/VEinteligente/asymentric-lock-box">Gihub repo</a>. Since this is an open-source project, we welcome any ideas that could improve this first prototype. We'd also love to connect with other organizations to share ideas about new ways if teaching digital security.
+            </p>
+         
+            <p class="cs-text-indent">
+                Conexion Segura is an initiative of the non-profit organization Venezuela Inteligente and the project VE Sin Filtro, which seek to promote the use of digital tools to improve access to information and the response capacity of other organizations, activists and civil society in general. Venezuela Inteligente fights for the rights of Venezuelans online and offline. Likewise, it diagnoses, documents and helps to overcome internet censorship. 
             </p>
 
             <p class="cs-text-indent">
-                Conexión Segura es una iniciativa de la organización sin fines de lucro Venezuela Inteligente y el proyecto VE Sin Filtro, que buscan promover el uso de herramientas digitales para mejorar el acceso a la información y la capacidad de respuesta de otras organizaciones, activistas y sociedad civil en general. Venezuela Inteligente lucha por los derechos de los venezolanos en línea y fuera de ella. Así mismo diagnostica, documenta y ayuda a superar la censura en internet.
-            </p>
-
-            <p class="cs-text-indent">
-                Si tienes alguna duda o sugerencia, o deseas contactarnos para mayor información sobre esta iniciativa, puedes hacerlo a través de nuestro correo <a href="mailto:conexionsegura@veinteligenteorg">conexionsegura@veinteligente.org</a>
+                If you have any questions or suggestions, or want to contact us for more information about this initiative, you can do so through our email <a href="mailto:conexionsegura@veinteligenteorg">conexionsegura@veinteligente.org</a>
             </p>
         </div>
     </section>
