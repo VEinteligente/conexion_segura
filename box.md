@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /box
+redirect_from:
+  - /bo/
 ---
 
  <section class="my-5">
