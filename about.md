@@ -73,12 +73,12 @@ permalink: /about
                     data-layout="default"
                     data-count="hidden"
                 ></div>
-
                 <i
                     id="yt-button"
                     class="fab fa-youtube cs-links position-relative"
                 ></i>
                 <span class="d-none">Youtube</span>
+                </a>
             </div>
 
             <div class="col col-sm-2 col-md-4 col-lg-3 d-flex justify-content-center align-items-center">
