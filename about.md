@@ -61,6 +61,11 @@ permalink: /about
             </div>
 
             <div class="col col-sm-2 col-md-4 col-lg-3 d-flex justify-content-center align-items-center position-relative">
+                <a
+                    href="https://www.youtube.com/@ConexionSegura"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
                 <div
                     id="yt-channel"
                     class="g-ytsubscribe position-absolute"
