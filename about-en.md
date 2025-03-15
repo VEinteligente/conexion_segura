@@ -8,7 +8,7 @@ permalink: /en/about
 
  <section class="my-5">
 
-    <h2 class="cs-h2 text-center mb-5">Quiénes somos</h2>
+    <h2 class="cs-h2 text-center mb-5">About us</h2>
 
     <section class="container text-justify">
         <div class="row">
@@ -34,7 +34,7 @@ permalink: /en/about
 
 <section class="my-5">
 
-    <h2 class="cs-h2 text-center mb-5">Nuestras RRSS</h2>
+    <h2 class="cs-h2 text-center mb-5">Follow us:</h2>
 
     <section class="container text-justify">
         <div class="row">
