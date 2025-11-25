@@ -34,15 +34,11 @@ redirect_from:
             </p>
          
             <p class="cs-text-indent">
-                If you are interested in building an 'asymmetric box' yourself, you can find all the necessary files for 3D printing in our public <a href="https://github.com/VEinteligente/asymentric-lock-box">Gihub repo</a>. Since this is an open-source project, we welcome any ideas that could improve this first prototype. We'd also love to connect with other organizations to share ideas about new ways if teaching digital security.
-            </p>
-         
-            <p class="cs-text-indent">
-                Conexion Segura is an initiative of the non-profit organization Venezuela Inteligente and the project VE Sin Filtro, which seek to promote the use of digital tools to improve access to information and the response capacity of other organizations, activists and civil society in general. Venezuela Inteligente fights for the rights of Venezuelans online and offline. Likewise, it diagnoses, documents and helps to overcome internet censorship. 
+                If you are interested in building an 'asymmetric box' yourself, you can find all the necessary files for 3D printing in our public <a href="https://github.com/VEinteligente/asymmetric-lock-box">GitHub repo</a>. Since this is an open-source project, we welcome any ideas that could improve this first prototype. We'd also love to connect with other organizations to share ideas about new ways if teaching digital security.
             </p>
 
             <p class="cs-text-indent">
-                If you have any questions or suggestions, or want to contact us for more information about this initiative, you can do so through our email <a href="mailto:conexionsegura@veinteligenteorg">conexionsegura@veinteligente.org</a>
+                If you have any questions or suggestions, or want to contact us for more information about this initiative, you can do so through our email <a href="mailto:info@conexionsegura.org">info@conexionsegura.org</a>
             </p>
         </div>
     </section>
